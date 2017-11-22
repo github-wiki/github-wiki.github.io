@@ -42,6 +42,8 @@ Unofficial Wiki about GitHub usage
 
 ![ruby-kramdown @Debian][1]
 
+Tadah
+
 [1]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
 {: width="9%"}
 
