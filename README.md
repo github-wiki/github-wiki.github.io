@@ -26,19 +26,37 @@ Unofficial Wiki about GitHub usage
 * [AsciiDoc](https://en.wikipedia.org/wiki/AsciiDoc "Wikipedia")
 * [AsciiDoc cheatsheet](http://powerman.name/doc/asciidoc)
 
-# GitHub Flavored Markdown (GFM)
+# Markups
+* https://github.com/github/markup
+
+## GitHub Flavored Markdown (GFM)
 * https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 
+# Inline HTML
+* [*Which inline html styles does GitHub markdown accept?*](https://stackoverflow.com/questions/44831505/which-inline-html-styles-does-github-markdown-accept "stackoverflow")
+* https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb
+
 # GitHub pages
+* [*Customizing GitHub Pages*](https://help.github.com/categories/customizing-github-pages/)
 
 ## Kramdown
-[![ruby-kramdown @Debian][]](https://tracker.debian.org/pkg/ruby-kramdown)
+* [*Quick Reference*](https://kramdown.gettalong.org/quickref.html)
+* [*kramdown Syntax*](https://kramdown.gettalong.org/syntax.html)
 * [Markdown Kramdown Tips & Tricks](https://about.gitlab.com/2016/07/19/markdown-kramdown-tips-and-tricks/)
+
+[![ruby-kramdown @Debian][]](https://tracker.debian.org/pkg/ruby-kramdown) <!--- or with css: img[alt=...] { width: 9%; } -->
 
 [ruby-kramdown @Debian]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
 {: width="9%"}
 
 ## Jekyll
+* [*Using Jekyll as a static site generator with GitHub Pages*](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+
+### Configuring Jekyll \_config.yml
+* [*Configuring Jekyll*](https://help.github.com/articles/configuring-jekyll/)
+* [*Configuring Jekyll plugins*](https://help.github.com/articles/configuring-jekyll-plugins/)
+* [*Updating your Markdown processor to kramdown*](https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/)
+* [\_config.yml](https://google.com/search?q=_config.yml)
 
 # See also
 * [travis-util.github.io](https://travis-util.github.io/)
