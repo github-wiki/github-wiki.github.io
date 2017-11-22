@@ -40,12 +40,18 @@ Unofficial Wiki about GitHub usage
 
 ![ruby-kramdown @Debian](https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y){: width="9%"}
 
-![ruby-kramdown @Debian][1]
+![ruby-kramdown @Debian.png][]
+
+taga
+
+[![ruby-kramdown @Debian.png][]][]
 
 Tadah
 
-[1]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
+[ruby-kramdown @Debian.png]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
 {: width="9%"}
+
+[![ruby-kramdown @Debian.png][]]: https://tracker.debian.org/pkg/ruby-kramdown
 
 <img src="https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y" width="9%">
 
