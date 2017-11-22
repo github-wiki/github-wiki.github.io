@@ -34,12 +34,22 @@ Unofficial Wiki about GitHub usage
 ## Kramdown
 [ruby-kramdown](https://tracker.debian.org/pkg/ruby-kramdown)
 
+[![ruby-kramdown @Debian][1]](https://tracker.debian.org/pkg/ruby-kramdown)
+
+[![ruby-kramdown @Debian](https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y)](https://tracker.debian.org/pkg/ruby-kramdown)
+
 ![ruby-kramdown @Debian](https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y){: width="9%"}
 
 ![ruby-kramdown @Debian][1]
 
 [1]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
 {: width="9%"}
+
+<img src="https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y" width="9%">
+
+![ruby][2]
+
+[2]: <img src="https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y" width="9%">
 
 * [Markdown Kramdown Tips & Tricks](https://about.gitlab.com/2016/07/19/markdown-kramdown-tips-and-tricks/)
 
