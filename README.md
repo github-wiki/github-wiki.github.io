@@ -32,31 +32,11 @@ Unofficial Wiki about GitHub usage
 # GitHub pages
 
 ## Kramdown
-[ruby-kramdown](https://tracker.debian.org/pkg/ruby-kramdown)
-
 [![ruby-kramdown @Debian][]](https://tracker.debian.org/pkg/ruby-kramdown)
-
-[![ruby-kramdown @Debian](https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y){: width="9%"}](https://tracker.debian.org/pkg/ruby-kramdown)
-
-taga
-
-[![ruby-kramdown @Debian][]][ruby-kramdown @Debian.html]
-
-Tadah
-
-[<img alt="ruby-kramdown @Debian" src="https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y" width="9%">][ruby-kramdown @Debian.html]
-
-[<img alt="ruby-kramdown @Debian" src="https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y" width="9%">](https://tracker.debian.org/pkg/ruby-kramdown)
+* [Markdown Kramdown Tips & Tricks](https://about.gitlab.com/2016/07/19/markdown-kramdown-tips-and-tricks/)
 
 [ruby-kramdown @Debian]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
 {: width="9%"}
-
-[ruby-kramdown @Debian.html]: https://tracker.debian.org/pkg/ruby-kramdown
-
-
-
-* [Markdown Kramdown Tips & Tricks](https://about.gitlab.com/2016/07/19/markdown-kramdown-tips-and-tricks/)
-
 
 ## Jekyll
 
