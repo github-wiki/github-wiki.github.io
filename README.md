@@ -34,6 +34,8 @@ Unofficial Wiki about GitHub usage
 ## Kramdown
 [ruby-kramdown](https://tracker.debian.org/pkg/ruby-kramdown)
 
+![ruby-kramdown @Debian](https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y){: width="9%"}
+
 ![ruby-kramdown @Debian][1]
 
 [1]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
