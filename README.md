@@ -37,7 +37,7 @@ Unofficial Wiki about GitHub usage
 * https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb
 
 # GitHub pages
-* [*Customizing GitHub Pages*](https://help.github.com/categories/customizing-github-pages/)
+* [*Customizing GitHub Pages*](https://help.github.com/categories/customizing-github-pages/ "GitHub Help")
 
 ## Kramdown
 * [*Quick Reference*](https://kramdown.gettalong.org/quickref.html)
@@ -49,13 +49,21 @@ Unofficial Wiki about GitHub usage
 [ruby-kramdown @Debian]: https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y
 {: width="9%"}
 
+### Lint
+* See [Setting up your GitHub Pages site locally with Jekyll]()
+* markdownlint / [markdownlint](https://github.com/markdownlint/markdownlint)
+* 
+
 ## Jekyll
-* [*Using Jekyll as a static site generator with GitHub Pages*](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+* [*Using Jekyll as a static site generator with GitHub Pages*](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ "GitHub Help")
+
+### Setting up your GitHub Pages site locally with Jekyll
+* [*Setting up your GitHub Pages site locally with Jekyll*](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/ "GitHub Help")
 
 ### Configuring Jekyll \_config.yml
-* [*Configuring Jekyll*](https://help.github.com/articles/configuring-jekyll/)
-* [*Configuring Jekyll plugins*](https://help.github.com/articles/configuring-jekyll-plugins/)
-* [*Updating your Markdown processor to kramdown*](https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/)
+* [*Configuring Jekyll*](https://help.github.com/articles/configuring-jekyll/ "GitHub Help")
+* [*Configuring Jekyll plugins*](https://help.github.com/articles/configuring-jekyll-plugins/ "GitHub Help")
+* [*Updating your Markdown processor to kramdown*](https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/ "GitHub Help")
 * [\_config.yml](https://google.com/search?q=_config.yml)
 
 # See also
