@@ -50,9 +50,10 @@ Unofficial Wiki about GitHub usage
 {: width="9%"}
 
 ### Lint
-* See [Setting up your GitHub Pages site locally with Jekyll]()
+* See [Setting up your GitHub Pages site locally with Jekyll](#setting-up-your-github-pages-site-locally-with-jekyll)
 * markdownlint / [markdownlint](https://github.com/markdownlint/markdownlint)
-* 
+* DavidAnson / [markdownlint](https://github.com/DavidAnson/markdownlint)
+* https://www.npmjs.com/package/markdown-lint
 
 ## Jekyll
 * [*Using Jekyll as a static site generator with GitHub Pages*](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ "GitHub Help")
