@@ -26,5 +26,17 @@ Unofficial Wiki about GitHub usage
 * [AsciiDoc](https://en.wikipedia.org/wiki/AsciiDoc "Wikipedia")
 * [AsciiDoc cheatsheet](http://powerman.name/doc/asciidoc)
 
+# GitHub Flavored Markdown (GFM)
+* https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
+
+# GitHub pages
+
+## Kramdown
+[![ruby-kramdown popcon graph](https://qa.debian.org/cgi-bin/popcon-png?packages=ruby-kramdown&show_installed=on&date_fmt=%25Y){: width="9%"}](https://tracker.debian.org/pkg/ruby-kramdown)
+* [Markdown Kramdown Tips & Tricks](https://about.gitlab.com/2016/07/19/markdown-kramdown-tips-and-tricks/)
+
+
+## Jekyll
+
 # See also
 * [travis-util.github.io](https://travis-util.github.io/)
