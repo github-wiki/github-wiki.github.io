@@ -67,7 +67,7 @@ Unofficial Wiki about GitHub usage
 * [*Updating your Markdown processor to kramdown*](https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/ "GitHub Help")
 * [\_config.yml](https://google.com/search?q=_config.yml)
 
-## Modifying an old branch and propagating changes to more recent ones
+# Modifying an old branch and propagating changes to more recent ones
 * [*Merging a pull request on GitHub*](https://help.github.com/articles/merging-a-pull-request/#merging-a-pull-request-on-github)
 * [*About Git rebase*](https://help.github.com/articles/about-git-rebase/)
 * [*About pull request merges*](https://help.github.com/articles/about-pull-request-merges/)
