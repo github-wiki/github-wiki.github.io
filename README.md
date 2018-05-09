@@ -78,4 +78,6 @@ Unofficial Wiki about GitHub usage
 * [*Rebase and merge your pull request commits*](https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits)
 
 # See also
-* [travis-util.github.io](https://travis-util.github.io/)
+* [travis-util](https://travis-util.github.io/)
+* [symfony-util](https://symfony-util.github.io)
+* [symfony-flex-demo](https://symfony-flex-demo.github.io)
